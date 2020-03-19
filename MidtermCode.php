@@ -1,5 +1,5 @@
 <!-- Midterm Code
-Name: Matthew Dean
+Name: Matthew Dean -->
 <!-- PART 1 -->
 <!DOCTYPE html>
 <html lang="en">
